@@ -1,3 +1,4 @@
-print("hello world")
 
-print("treinamento de git / github")
+nome = input("digite seu nome; ")
+
+print(f"ola {nome}!" )
